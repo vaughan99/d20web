@@ -4,7 +4,7 @@
             "404": "errors/404",
             "500": "errors/500",
             "503": "errors/503"
-        }
+        },
 //      "appsec": {
 //        "csrf": true,
 //        "csp": false,
@@ -12,10 +12,10 @@
 //        "xframe": "SAMEORIGIN"
 //      },
 //
-//      "compiler": {
-//          "dust": "templates",
-//          "less": "css"
-//      },
+        "compiler": {
+            "dust": "templates",
+            "less": "css"
+        }
 //
 //      "session": {
 //          "module": "memory",
